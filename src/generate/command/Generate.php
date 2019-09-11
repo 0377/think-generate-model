@@ -1,6 +1,6 @@
 <?php
 
-namespace ice\command;
+namespace ice\generate\command;
 
 use think\console\Command;
 use think\console\Input;

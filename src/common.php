@@ -1,4 +1,4 @@
 <?php
 \think\Console::addDefaultCommands([
-    "ice\\command\\Generate"
+    "ice\\generate\\command\\Generate"
 ]);
