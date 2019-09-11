@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "think\\": "src"
+      "ice\\generate\\": "src"
     },
     "files": [
       "src/common.php"
