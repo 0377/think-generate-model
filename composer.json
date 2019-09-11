@@ -1,0 +1,24 @@
+{
+  "name": "0377/think-generate-model",
+  "description": "thinkphp5.0快速生成模型的property，让IDE识别更友好",
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Ice",
+      "email": "190520601@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "topthink/framework": ">=5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "think\\": "src"
+    },
+    "files": [
+      "src/common.php"
+    ]
+  }
+}
